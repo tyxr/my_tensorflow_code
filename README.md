@@ -1,1 +1,1 @@
-# my_tensorflow_code
+# 最近写的tensoflow先上传上来，第一个目前无法很好运行，我再学学修改一下。tensorflow足够复杂，但是复杂也意味着好玩。
